@@ -1,3 +1,5 @@
+<head>
+<style>
 @charset "utf-8";
 /* CSS Document */
 body { margin: 0; background:#eeeeee; font-family: 'Lato', 'FontAwesome', sans-serif;}
@@ -111,3 +113,6 @@ button.accordion.active::after {  margin: 3px 5px 0 0;content: "";}
 .tracking .overlay-content-preference .switches{ float:right; padding:5px 0 0 0;}
 .tracking .overlay-content-preference .btn-row{ border-bottom:1px solid #d2d2d2; padding:5px 10px;}
 
+
+</style>
+<head>
